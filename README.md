@@ -3,8 +3,8 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
-This is a continuation of the <a href="https://github.com/MindofLindstrom01/osticket-prereqs">osTicket - Post-Install Configuration</a>
+This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+This is a continuation of the <a href="https://github.com/MindofLindstrom01/post-install-config">osTicket - Post-Install Configuration</a>
 <br />
 
 <h2>Environments and Technologies Used</h2>
@@ -17,7 +17,7 @@ This is a continuation of the <a href="https://github.com/MindofLindstrom01/osti
 
 - Windows 10</b> (21H2)
 
-<h2>Installation Steps</h2>
+<h2>Steps</h2>
 
 <h3>Step 1.</h3>
 
