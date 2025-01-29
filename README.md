@@ -3,7 +3,8 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+This project outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+<br />
 This is a continuation of the <a href="https://github.com/MindofLindstrom01/post-install-config">osTicket - Post-Install Configuration</a>
 <br />
 
