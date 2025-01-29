@@ -2,23 +2,28 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This project outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+<h1>osTicket: Creating and Working Tickets</h1>
+<h2>Description</h2>
+In the last part of the osTicket project, we go through the life cycle of a ticket from creation, to resolution. We'll make changes to the tickets when necessary like assigning the tickets, changing the SLA (Service Level Agreement), and commenting to create a thread of clear communication.<br />
 <br />
-This is a continuation of the <a href="https://github.com/MindofLindstrom01/post-install-config">osTicket - Post-Install Configuration</a>
-<br />
+This project is a continuation of <a href="https://github.com/MindofLindstrom01/post-install-config">osTicket: Post Installation Configuration</a><br>
+<br>
+<a href="http://localhost/osTicket/scp/login.php">Help Desk Login Page</a>
+<br>
+<a href="http://localhost/osTicket/">End User osTicket URL</a>
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure
+- Virtual Machines
 - Remote Desktop Connection
-- Internet Information Services (IIS)
+- osTicket
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> (22H2)
 
-<h2>Steps</h2>
+<h2>Project Walk-Through:</h2>
 
 <h3>Step 1.</h3>
 
@@ -135,10 +140,6 @@ This is a continuation of the <a href="https://github.com/MindofLindstrom01/post
 <p>The ticket should now be resolved and no longer listed under Open.</p>
 
 <p>Congratulations! You have successfully achieved ticket Intake, Assignment, Communication, Working the Issue, and Resolution for osTicket.</p>
-
-<a href="http://localhost/osTicket/scp/login.php">Help Desk Login Page</a>
-<br>
-<a href="http://localhost/osTicket/">End User osTicket URL</a>
 
 
 
