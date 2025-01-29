@@ -139,7 +139,9 @@ This project is a continuation of <a href="https://github.com/MindofLindstrom01/
 
 <p>The ticket should now be resolved and no longer listed under Open.</p>
 
-<p>Congratulations! You have successfully achieved ticket Intake, Assignment, Communication, Working the Issue, and Resolution for osTicket.</p>
+<h2>osTicket: Creating and Working Tickets is now Complete!</h2>
+
+<p>Congratulations! You have successfully gone through the life cycle of a ticket from creation to resolution, made changes to the tickets when necessary like assigning the tickets, changing the SLA (Service Level Agreement), and commenting to create a thread of clear communication!</p>
 
 
 
